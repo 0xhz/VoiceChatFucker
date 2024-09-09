@@ -16,11 +16,6 @@ Este plugin foi desenvolvido para facilitar a administração de servidores no D
 Veja o tutorial completo de instalação no YouTube:
 [![Como Adcionar O Plugin](https://img.shields.io/badge/YouTube-Video-red?style=for-the-badge&logo=youtube)]([https://www.youtube.com/link-do-tutorial](https://www.youtube.com/watch?v=3anTy0EdvsE))
 
-## 🎥 Demonstração
-
-Clique na imagem abaixo para assistir à demonstração do plugin:
-[![Demonstração](https://img.youtube.com/vi/abc1234567/maxresdefault.jpg)](https://qu.ax/rHFQ.mp4)
-
 ## 📜 Créditos
 - **Plugin Original:** [D3SOX](https://github.com/D3SOX)
 - **Modificações Avançadas:** [0xhz](https://github.com/0xhz)
@@ -30,3 +25,8 @@ Clique na imagem abaixo para assistir à demonstração do plugin:
 
 Junte-se à nossa comunidade no Discord:
 [![Discord](https://img.shields.io/badge/Discord-Community-blue?style=for-the-badge&logo=discord)](https://gg.gg/hardzy)
+
+## 🎥 Demonstração
+
+Clique na imagem abaixo para assistir à demonstração do plugin:
+[![Demonstração]](https://qu.ax/rHFQ.mp4)
