@@ -14,7 +14,7 @@ Este plugin foi desenvolvido para facilitar a administração de servidores no D
 ## 🛠️ Instalação
 
 Veja o tutorial completo de instalação no YouTube:
-[![Assista no YouTube](https://img.shields.io/badge/YouTube-Video-red?style=for-the-badge&logo=youtube)]([https://www.youtube.com/link-do-tutorial](https://www.youtube.com/watch?v=3anTy0EdvsE))
+[Como Installar O Plugin](https://www.youtube.com/watch?v=3anTy0EdvsE)
 
 ## 📜 Créditos
 - **Plugin Original:** [D3SOX](https://github.com/D3SOX)
