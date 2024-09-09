@@ -14,7 +14,7 @@ Este plugin foi desenvolvido para facilitar a administração de servidores no D
 ## 🛠️ Instalação
 
 Veja o tutorial completo de instalação no YouTube:
-[Como Installar O Plugin](https://www.youtube.com/watch?v=3anTy0EdvsE)
+[Como Installar O Plugin](https://www.youtube.com/watch?v=3anTy0EdvsE) <------------
 
 ## 📜 Créditos
 - **Plugin Original:** [D3SOX](https://github.com/D3SOX)
