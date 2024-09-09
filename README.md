@@ -29,4 +29,4 @@ Junte-se à nossa comunidade no Discord:
 ## 🎥 Demonstração
 
 Clique na imagem abaixo para assistir à demonstração do plugin:
-[![Demonstração]](https://qu.ax/rHFQ.mp4)
+https://qu.ax/rHFQ.mp4
